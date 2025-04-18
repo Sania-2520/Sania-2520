@@ -64,6 +64,24 @@
 
 ---
 
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sania-2520&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🐱 Fun Facts
+
+- 🧠 I debug better with background lo-fi beats  
+- 📦 I love turning messy code into clean, modular components  
+- ☕ Coffee > Bugs — always  
+- 🌌 I believe great UI/UX is as important as great algorithms  
+- 💬 I enjoy helping others with their dev journey too!
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
