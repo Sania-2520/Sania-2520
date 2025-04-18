@@ -1,3 +1,9 @@
+<!-- Banner -->
+<p align="center">
+  ✨✨
+  <img src="https://raw.githubusercontent.com/Sania-2520/Sania-2520/main/my_banner(2).png" alt="Sania Kotharkar's Banner" width="100%"/>
+  ✨✨
+</p>
 
 <h1 align="center">Hello, world 👨‍💻 I'm Sania Kotharkar</h1>
 
