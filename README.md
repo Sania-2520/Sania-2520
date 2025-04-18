@@ -27,6 +27,14 @@
 
 ---
 
+<blockquote align="center">
+  <h3>📌 Code Truths</h3>
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em><br>
+  <strong>– Cory House</strong>
+</blockquote>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
