@@ -5,7 +5,7 @@
   ✨✨
 </p>
 
-<h1 align="center">Hello, world 👨‍💻 I'm Sania Kotharkar</h1>
+<h1 align="center">Hello, world 👨‍💻 I'm Sania S Kotharkar</h1>
 
 <p align="center">
   🚀 Exploring code, creativity & caffeine.<br/>
